@@ -4,6 +4,9 @@
 A beautifully rendered comp to spec of the image below. 
 
 ## Technologies Used
-- HTML and CSS exclusively. This was a display challenge. 
+- HTML and CSS exclusively. This was a display challenge.
+
+## Demo
+Click [Here](www.kylemboomer.github.io/dog-party)
 
 ![Comp](dog-party-spec.png).
