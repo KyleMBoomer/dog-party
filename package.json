@@ -6,7 +6,7 @@
   "homepage": "http://kylemboomer.github.io/dog-party",
   "repository": {
     "type": "git",
-    "url": "git+https: //github.com/kylemboomer/dog-party.git"
+    "url": "git+https://github.com/kylemboomer/dog-party.git"
   },
   "scripts": {
     "start": "webpack server",
