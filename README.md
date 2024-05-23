@@ -7,6 +7,6 @@ A beautifully rendered comp to spec of the image below.
 - HTML and CSS exclusively. This was a display challenge.
 
 ## Demo
-Click [Here](www.kylemboomer.github.io/dog-party)
+Click [Here](http://kylemboomer.github.io/dog-party)
 
 ![Comp](dog-party-spec.png).
